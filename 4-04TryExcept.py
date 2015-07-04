@@ -12,7 +12,12 @@ while True:
     else:
         print("OK")
     finally:
+        print("Hello")
         print("finally")
+
+
+
+
 
 
 
